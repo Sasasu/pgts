@@ -1,0 +1,12 @@
+BasedOnStyle: LLVM
+IndentWidth: 8
+UseTab: Always
+BreakBeforeBraces: Linux
+AllowShortIfStatementsOnASingleLine: false
+IndentCaseLabels: false
+ColumnLimit: 120
+SortIncludes: true
+IndentPPDirectives: AfterHash
+IndentExternBlock: NoIndent
+AlignAfterOpenBracket: AlwaysBreak
+BinPackArguments: false
