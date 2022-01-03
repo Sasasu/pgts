@@ -1,0 +1,5 @@
+comment = 'time encode for PostgreSQL'
+default_version = '0.1.0'
+module_pathname = '$libdir/pgts'
+relocatable = true
+superuser = false
